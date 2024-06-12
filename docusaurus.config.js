@@ -16,7 +16,7 @@ const config = {
   url: 'https://drago.pe',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/page',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -57,7 +57,6 @@ const config = {
       // Replace with your project's social card
       image: 'img/capture.png',
       navbar: {
-        
         logo: {
           alt: 'facturador.drago.pe',
           src: 'img/logo-text.png',
